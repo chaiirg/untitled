@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cdca1e7f-17f7-4e3a-bd8f-ac215c3adc67" name="savonnette" url="https://chaii.alwaysdata.net/">
+        <fileTransfer rootFolder="/home/chaii/www" accessType="SFTP" host="ssh-chaii.alwaysdata.net" port="22" sshConfigId="a9689192-58a5-4870-8bc9-2265093c8fe6" sshConfig="chaii@ssh-chaii.alwaysdata.net:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
